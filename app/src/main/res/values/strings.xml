@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM LogIn Sample</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="label_login">LogIn</string>
+    <string name="action_login">LogIn</string>
+</resources>
